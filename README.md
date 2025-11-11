@@ -3,6 +3,26 @@
 Purdue Certified Cybersecurity Professional | VAPT, Threat Analysis, & Incident Response | Military Veteran | Seeking Entry-Level Role 
 
 
+<h2> 🤳 Connect with:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/matheusado/
+
+My Linkedin
+
+<h2>📺 Certifications</h2>
+
+- [Professional Certificate Program in Cybersecurity - Purdue University Certificate](https://i.imgur.com/owBk6EO.png)
+- [Cyber Capstone Project - Purdue University & Simplilearn Certificate](https://i.imgur.com/0uKKc2T.png)
+- [Ethical Hacking: From Recon to Attack - Purdue University & Simplilearn Certificate](https://i.imgur.com/0153phf.png)
+- [Vulnerability Assessment and Penetration Testing - Purdue University & Simplilearn Certificate](https://i.imgur.com/JrLVSzI.png)
+- [Ransomware and Malware - Defense, Analysis and Response - Purdue University & Simplilearn Certificate](https://i.imgur.com/qz9EN1Q.png)
+- [Application Security, Vulnerability Management, and Cyber Resilience - Purdue University & Simplilearn Certificate](https://i.imgur.com/CxhztOP.png)
+- [Enterprise Infrastructure Security - Purdue University & Simplilearn Certificate](https://i.imgur.com/IQxlZ56.png)
+- [Operating Systems and Networking Essentials - Purdue University & Simplilearn Certificate](https://i.imgur.com/4wOeYdo.png)
+- [Google Cybersecurity Professional Certificate](https://imgur.com/a/Cj8hafS)
+
 <h2>Cybersecurity Projects:</h2>
 
 - https://github.com/matheusado/appsec-vulnerability-lab
@@ -50,24 +70,8 @@ Implemented a Windows-native auditing solution using Group Policy and PowerShell
 - https://github.com/matheusadusa/Packet-Tracer-Network-Setup-Star-Ring-Vlan-project
 - A hands-on networking project using Cisco Packet Tracer to configure and analyze star and ring topologies with VLAN segmentation, focusing on real-world data flow, device setup, and connectivity testing.
 
-<h2>📺 Certifications</h2>
-
-- [Professional Certificate Program in Cybersecurity - Purdue University Certificate](https://i.imgur.com/owBk6EO.png)
-- [Cyber Capstone Project - Purdue University & Simplilearn Certificate](https://i.imgur.com/0uKKc2T.png)
-- [Ethical Hacking: From Recon to Attack - Purdue University & Simplilearn Certificate](https://i.imgur.com/0153phf.png)
-- [Vulnerability Assessment and Penetration Testing - Purdue University & Simplilearn Certificate](https://i.imgur.com/JrLVSzI.png)
-- [Ransomware and Malware - Defense, Analysis and Response - Purdue University & Simplilearn Certificate](https://i.imgur.com/qz9EN1Q.png)
-- [Application Security, Vulnerability Management, and Cyber Resilience - Purdue University & Simplilearn Certificate](https://i.imgur.com/CxhztOP.png)
-- [Enterprise Infrastructure Security - Purdue University & Simplilearn Certificate](https://i.imgur.com/IQxlZ56.png)
-- [Operating Systems and Networking Essentials - Purdue University & Simplilearn Certificate](https://i.imgur.com/4wOeYdo.png)
-- [Google Cybersecurity Professional Certificate](https://imgur.com/a/Cj8hafS)
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/matheusado/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
