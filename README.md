@@ -1,6 +1,9 @@
-<h1>Hi, I'm Matheus! <br/><a href="https://www.linkedin.com/in/matheus-antunes-dorneles-187a981b3/">Cybersecurity Student</a>
+<h1>Hi, I'm Matheus! 
+    
+Purdue Certified Cybersecurity Professional | VAPT, Threat Analysis, & Incident Response | Military Veteran | Seeking Entry-Level Role 
 
-<h2>👨‍💻 Some of my Cybersecurity Projects:</h2>
+
+<h2>Cybersecurity Projects:</h2>
 
 - https://github.com/matheusado/appsec-vulnerability-lab
 - Executed a full application security assessment on a deliberately vulnerable web app in a controlled lab environment—from reconnaissance using tools like Nmap, WhatWeb, Dirb/Gobuster, and OWASP ZAP to manual testing with Burp Suite. Discovered critical issues such as exposed admin directories, sensitive configuration disclosures via phpinfo, and hidden flags, and documented findings alongside remediation recommendations to enhance application security and resilience.
@@ -38,7 +41,7 @@ Implemented a Windows-native auditing solution using Group Policy and PowerShell
 - https://github.com/matheusadusa/DHCP-Network-Cisco-Visual-Guide
 - A hands-on project demonstrating how to configure a DHCP network in Cisco Packet Tracer, including router setup, dynamic IP assignment, and network connectivity testing.
 
-- https://github.com/matheusado/Router-Configuration-for-multiple-networks)
+- https://github.com/matheusado/Router-Configuration-for-multiple-networks
 - Set up a single Cisco router to manage multiple subnets within Cisco Packet Tracer, configuring interface IPs, subnet masks, and routing to enable seamless communication between networks. Includes step-by-step visual walkthroughs and testing to validate inter-network connectivity.
  
 - https://github.com/matheusadusa/Linux-User-Group-Based-Script-Access
@@ -49,6 +52,11 @@ Implemented a Windows-native auditing solution using Group Policy and PowerShell
 
 <h2>📺 Certifications</h2>
 
+- [Professional Certificate Program in Cybersecurity - Purdue University Certificate](https://i.imgur.com/owBk6EO.png)
+- [Cyber Capstone Project - Purdue University & Simplilearn Certificate](https://i.imgur.com/0uKKc2T.png)
+- [Ethical Hacking: From Recon to Attack - Purdue University & Simplilearn Certificate](https://i.imgur.com/0153phf.png)
+- [Vulnerability Assessment and Penetration Testing - Purdue University & Simplilearn Certificate](https://i.imgur.com/JrLVSzI.png)
+- [Ransomware and Malware - Defense, Analysis and Response - Purdue University & Simplilearn Certificate](https://i.imgur.com/qz9EN1Q.png)
 - [Application Security, Vulnerability Management, and Cyber Resilience - Purdue University & Simplilearn Certificate](https://i.imgur.com/CxhztOP.png)
 - [Enterprise Infrastructure Security - Purdue University & Simplilearn Certificate](https://i.imgur.com/IQxlZ56.png)
 - [Operating Systems and Networking Essentials - Purdue University & Simplilearn Certificate](https://i.imgur.com/4wOeYdo.png)
