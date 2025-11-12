@@ -25,6 +25,9 @@ My Linkedin
 
 <h2>Cybersecurity Projects:</h2>
 
+- https://github.com/matheusado/Secure-File-Storage-and-Access-Management-for-Project-Teams
+- Built a secure Linux file solution enforcing Least Privilege and Traceable Access. Implemented POSIX ACLs and the sticky bit for file segregation. Used auditd for all file activity logging, exporting to an Apache dashboard with Basic Auth for IT review and compliance.
+
 - https://github.com/matheusado/Offense-Defense-Lab-Reverse-Shell-Exploitation-Detection
 - Project simulating a targeted Reverse TCP Shell attack using Metasploit's msfvenom to bypass firewalls. Demonstrated detection capabilities using Sysinternals TCPView for dynamic analysis and real-time monitoring of malicious network connections. Also included VirusTotal analysis for threat intelligence. 
   
