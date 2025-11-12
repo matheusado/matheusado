@@ -25,6 +25,9 @@ My Linkedin
 
 <h2>Cybersecurity Projects:</h2>
 
+- https://github.com/matheusado/Ransomware-and-Malware-Defense-Analysis-and-Response-
+- Executed a full Digital Forensics workflow for incident response, simulating a malware/ransomware attack. Secured evidence acquisition using FTK Imager to create .E01 images, detected data concealment (Steganography via SilentEye/Steghide), and performed Data Recovery from isolated virtual media. Validates expertise in Forensic Analysis and Incident Response protocols.
+
 - https://github.com/matheusado/appsec-vulnerability-lab
 - Executed a full application security assessment on a deliberately vulnerable web app in a controlled lab environment—from reconnaissance using tools like Nmap, WhatWeb, Dirb/Gobuster, and OWASP ZAP to manual testing with Burp Suite. Discovered critical issues such as exposed admin directories, sensitive configuration disclosures via phpinfo, and hidden flags, and documented findings alongside remediation recommendations to enhance application security and resilience.
     
