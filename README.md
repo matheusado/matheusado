@@ -25,6 +25,9 @@ My Linkedin
 
 <h2>Cybersecurity Projects:</h2>
 
+- https://github.com/matheusado/Offense-Defense-Lab-Reverse-Shell-Exploitation-Detection
+- Project simulating a targeted Reverse TCP Shell attack using Metasploit's msfvenom to bypass firewalls. Demonstrated detection capabilities using Sysinternals TCPView for dynamic analysis and real-time monitoring of malicious network connections. Also included VirusTotal analysis for threat intelligence. 
+  
 - https://github.com/matheusado/Ransomware-and-Malware-Defense-Analysis-and-Response-
 - Executed a full Digital Forensics workflow for incident response, simulating a malware/ransomware attack. Secured evidence acquisition using FTK Imager to create .E01 images, detected data concealment (Steganography via SilentEye/Steghide), and performed Data Recovery from isolated virtual media. Validates expertise in Forensic Analysis and Incident Response protocols.
 
