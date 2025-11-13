@@ -25,6 +25,9 @@ My Linkedin
 
 <h2>Cybersecurity Projects:</h2>
 
+- https://github.com/matheusado/Ethical-Hacking-From-Recon-to-Attack
+- Project executing the full Ethical Hacking lifecycle: Information Gathering using recon-ng and WHOIS, followed by Active Recon with focused Nmap host/service scans. Successfully simulated a basic attack vector and generated detailed HTML reports of all reconnaissance and vulnerability findings.
+
 - https://github.com/matheusado/Secure-File-Storage-and-Access-Management-for-Project-Teams
 - Built a secure Linux file solution enforcing Least Privilege and Traceable Access. Implemented POSIX ACLs and the sticky bit for file segregation. Used auditd for all file activity logging, exporting to an Apache dashboard with Basic Auth for IT review and compliance.
 
