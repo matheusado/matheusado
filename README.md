@@ -25,6 +25,9 @@ My Linkedin
 
 <h2>Cybersecurity Projects:</h2>
 
+- https://github.com/matheusado/Vulnerability-Assessment-and-Penetration-Testing-VAPT-
+- VAPT with Greenbone: Deployed the Greenbone Vulnerability Manager (GVM/OpenVAS) on Kali Linux to perform a full VAPT workflow. Configured the scanner, targeted lab systems (Windows Server/Metasploitable), executed automated vulnerability scans, and generated detailed vulnerability reports for remediation and risk prioritization.
+
 - https://github.com/matheusado/Exploiting-Android-with-Metasploit
 - Android Exploitation Lab: Created and deployed a malicious APK payload via msfvenom and Apache2 to establish a Reverse TCP Meterpreter session on a victim Android VM. Managed the remote session and executed post-exploitation commands (e.g., sysinfo, dump_contacts) in a controlled ethical hacking environment.
 
