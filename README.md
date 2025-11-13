@@ -25,6 +25,10 @@ My Linkedin
 
 <h2>Cybersecurity Projects:</h2>
 
+- https://github.com/matheusado/Exploiting-Android-with-Metasploit
+- Android Exploitation Lab: Created and deployed a malicious APK payload via msfvenom and Apache2 to establish a Reverse TCP Meterpreter session on a victim Android VM. Managed the remote session and executed post-exploitation commands (e.g., sysinfo, dump_contacts) in a controlled ethical hacking environment.
+
+
 - https://github.com/matheusado/Ethical-Hacking-From-Recon-to-Attack
 - Project executing the full Ethical Hacking lifecycle: Information Gathering using recon-ng and WHOIS, followed by Active Recon with focused Nmap host/service scans. Successfully simulated a basic attack vector and generated detailed HTML reports of all reconnaissance and vulnerability findings.
 
@@ -41,7 +45,7 @@ My Linkedin
 - Executed a full application security assessment on a deliberately vulnerable web app in a controlled lab environment—from reconnaissance using tools like Nmap, WhatWeb, Dirb/Gobuster, and OWASP ZAP to manual testing with Burp Suite. Discovered critical issues such as exposed admin directories, sensitive configuration disclosures via phpinfo, and hidden flags, and documented findings alongside remediation recommendations to enhance application security and resilience.
     
 - https://github.com/matheusado/logon-monitor-powershell
-Implemented a Windows-native auditing solution using Group Policy and PowerShell to track critical security events—successful logons (4624), failed logons (4625 & 4776), and file access (4663)—and parse them into structured HTML reports for easy review. The setup enables both manual execution and scheduled automation via Task Scheduler, giving admins real-time insight into unauthorized access attempts and user activity.
+- Implemented a Windows-native auditing solution using Group Policy and PowerShell to track critical security events—successful logons (4624), failed logons (4625 & 4776), and file access (4663)—and parse them into structured HTML reports for easy review. The setup enables both manual execution and scheduled automation via Task Scheduler, giving admins real-time insight into unauthorized access attempts and user activity.
   
 - https://github.com/matheusado/owasp-juice-shop-security-lab
 - Conducted a full penetration test against the OWASP Juice Shop in a TryHackMe lab using tools like Burp Suite, OWASP ZAP, SQLMap, and SecLists to uncover vulnerabilities such as SQL injection, XSS, directory traversal, brute-force login, and logic bypasses. Documented each exploit with evidence and visual captures, reinforcing secure coding best practices and mastery of OWASP Top 10 risks.
@@ -50,7 +54,7 @@ Implemented a Windows-native auditing solution using Group Policy and PowerShell
 - Deployed a hardened Linux-based SSH honeypot using Fail2ban, TCP Wrappers, Firewalld, and a decoy “bait” user to detect, log, and automatically block brute-force attacks, with bans also mirrored in /etc/hosts.deny for auditing. Delivered real-time monitoring via an Apache-served HTML dashboard and optional Splunk integration for advanced log analysis and visualization.
   
 - https://github.com/matheusado/Analyzing-Web-Server-Logs-in-Splunk
--Used Splunk to aggregate and analyze web server logs—indexing access records, HTTP methods, response codes, and client IPs to identify usage trends and anomalies. Crafted SPL queries to filter, visualize, and explore log data, enabling insights into traffic patterns, potential errors, or suspicious activity.
+- Used Splunk to aggregate and analyze web server logs—indexing access records, HTTP methods, response codes, and client IPs to identify usage trends and anomalies. Crafted SPL queries to filter, visualize, and explore log data, enabling insights into traffic patterns, potential errors, or suspicious activity.
 
 - https://github.com/matheusado/auth0-zendesk-sso-integration
 - Implemented a secure Single Sign-On (SSO) solution between Auth0 and Zendesk using SAML, enabling seamless user authentication and social login capabilities. Enhanced user experience and system security by integrating identity management with streamlined access for support agents and end users.
