@@ -4,8 +4,7 @@
 <br>
 <br>
 Currently building responsive web applications, AI-driven projects, and hands-on technical solutions while expanding my skills in JavaScript, React, Python, and modern AI frameworks.</h2>
-<br>
-<br>
+
 <h2> 🤳 Connect with:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
