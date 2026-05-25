@@ -25,6 +25,23 @@ My Linkedin
 - [Operating Systems and Networking Essentials - Purdue University & Simplilearn Certificate](https://i.imgur.com/4wOeYdo.png)
 - [Google Cybersecurity Professional Certificate](https://imgur.com/a/Cj8hafS)
 
+<h2>📚 Currently Learning</h2>
+
+- FrontendSimplified Software Engineering Bootcamp
+  - HTML, CSS, JavaScript
+  - React, Firebase, TypeScript, Next.js
+  - APIs, Git, Responsive Design
+  - Data Structures & Algorithms
+  - Portfolio-Scale Frontend Applications
+
+- Microsoft Applied Agentic AI: Systems, Design & Impact
+  - AI Agents & Multi-Agent Systems
+  - LangChain & LangGraph
+  - RAG Pipelines
+  - Prompt Engineering
+  - AI Workflow Automation
+  - MCP & Agent Orchestration
+
 <h2>Software Engineering Projects:</h2> 
 
 E-Commerce Website Project:
