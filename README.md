@@ -1,6 +1,6 @@
 <h1>Hi, I'm Matheus 👋
 
-<h2>Software Engineer focused on Frontend Development with training in AI Systems and Cybersecurity.
+<h2>Software Engineer focused on Frontend Development, with training in AI Systems and Cybersecurity.
 
 Currently building responsive web applications, AI-driven projects, and hands-on technical solutions while expanding my skills in JavaScript, React, Python, and modern AI frameworks.</h2>
 
