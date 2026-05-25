@@ -1,6 +1,8 @@
-<h1>Hi, I'm Matheus! 
-    
-Purdue Certified Cybersecurity Professional | VAPT, Threat Analysis, & Incident Response | Military Veteran | Seeking Entry-Level Role 
+<h1>Hi, I'm Matheus 👋
+
+Software Engineer focused on Frontend Development with training in AI Systems and Cybersecurity.
+
+Currently building responsive web applications, AI-driven projects, and hands-on technical solutions while expanding my skills in JavaScript, React, Python, and modern AI frameworks.
 
 
 <h2> 🤳 Connect with:</h2>
@@ -22,6 +24,25 @@ My Linkedin
 - [Enterprise Infrastructure Security - Purdue University & Simplilearn Certificate](https://i.imgur.com/IQxlZ56.png)
 - [Operating Systems and Networking Essentials - Purdue University & Simplilearn Certificate](https://i.imgur.com/4wOeYdo.png)
 - [Google Cybersecurity Professional Certificate](https://imgur.com/a/Cj8hafS)
+
+<h2>Software Engineering Projects:</h2> 
+
+E-Commerce Website Project:
+
+Responsive frontend e-commerce website built using HTML, CSS, and JavaScript.
+
+Features:
+- Responsive mobile-first design
+- Interactive navigation menu
+- Dynamic UI components
+- GitHub Pages deployment
+- Modern layout and animations
+
+Live Demo:
+https://matheusado.github.io/E-Commerce-Website-Project/
+
+Repository:
+https://github.com/matheusado/E-Commerce-Website-Project
 
 <h2>Cybersecurity Projects:</h2>
 
