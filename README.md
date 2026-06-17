@@ -44,6 +44,26 @@ My Linkedin
 
 <h2>Software Engineering Projects:</h2> 
 
+Business Template UI Project:
+
+Business landing page frontend built using HTML, CSS, and JavaScript.
+
+Features:
+- Modern multi-section landing page
+- Clean frontend layout
+- Navigation menu
+- Pricing section
+- Testimonials section
+- Call-to-action section
+- Footer layout
+- Modern UI styling
+
+Live Demo:
+https://matheusado.github.io/business-template-ui/
+
+Repository:
+https://github.com/matheusado/business-template-ui
+
 E-Commerce Website Project:
 
 Responsive frontend e-commerce website built using HTML, CSS, and JavaScript.
