@@ -46,17 +46,18 @@ My Linkedin
 
 Business Template UI Project:
 
-Business landing page frontend built using HTML, CSS, and JavaScript.
+Modern business landing page built with HTML, CSS, and JavaScript, featuring a clean user interface and responsive navigation optimized for mobile devices at 640px breakpoints.
 
 Features:
 - Modern multi-section landing page
-- Clean frontend layout
-- Navigation menu
+- Responsive navigation menu
+- Clean and professional UI design
 - Pricing section
 - Testimonials section
 - Call-to-action section
-- Footer layout
-- Modern UI styling
+- Structured footer layout
+- Reusable and organized CSS architecture
+- Smooth visual styling and user experience
 
 Live Demo:
 https://matheusado.github.io/business-template-ui/
