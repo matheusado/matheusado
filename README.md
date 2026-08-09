@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Matheus 👋</h1>
 
 <h3 align="center">
-Software Engineer specializing in AI Agents, Multi-Agent Systems, Python, React, and Modern Web Applications.
+Software Engineer passionate about building intelligent software, modern web applications, and secure systems.
 </h3>
 
 <p align="center">
-Currently building production-ready AI systems using CrewAI, LangChain, MCP, RAG pipelines, and modern frontend technologies.
+My background combines Software Engineering, AI Systems, and Cybersecurity, with hands-on experience developing full-stack applications, multi-agent AI solutions, and automation tools using Python, JavaScript, React, and modern AI frameworks.
 </p>
 
 ---
