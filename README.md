@@ -158,12 +158,17 @@ https://github.com/matheusado?tab=repositories
 
 # 🌱 Currently Learning
 
-- Production AI Agent Systems
-- Advanced React
-- System Design
-- Cloud Architecture
-- LLM Evaluation
-- AI Infrastructure
+### Frontend Simplified Software Engineering Bootcamp
+
+- Advanced JavaScript & TypeScript
+- React & Next.js
+- Full-Stack Application Development
+- Firebase & Backend Integration
+- REST APIs
+- Data Structures & Algorithms
+- Software Architecture & Design Patterns
+- Git & Collaborative Development
+- Technical Interview Preparation
 
 ---
 
