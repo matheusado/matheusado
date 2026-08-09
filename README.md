@@ -1,166 +1,178 @@
-<h1>Hi, I'm Matheus 👋
+<h1 align="center">Hi, I'm Matheus 👋</h1>
 
-<h2>Software Engineer focused on Frontend Development, with training in AI Systems and Cybersecurity.
-<br>
-<br>
-Currently building responsive web applications, AI-driven projects, and hands-on technical solutions while expanding my skills in JavaScript, React, Python, and modern AI frameworks.</h2>
+<h3 align="center">
+Software Engineer specializing in AI Agents, Multi-Agent Systems, Python, React, and Modern Web Applications.
+</h3>
 
-<h2> 🤳 Connect with:</h2>
+<p align="center">
+Currently building production-ready AI systems using CrewAI, LangChain, MCP, RAG pipelines, and modern frontend technologies.
+</p>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[linkedin]: https://www.linkedin.com/in/matheusado/
+# 🚀 Featured Project
 
-My Linkedin
+## AI Market Research GTM Platform
 
-<h2>📺 Certifications</h2>
+Production-ready multi-agent AI platform that automates market research and go-to-market strategy generation.
 
-- [Professional Certificate Program in Cybersecurity - Purdue University Certificate](https://i.imgur.com/owBk6EO.png)
-- [Cyber Capstone Project - Purdue University & Simplilearn Certificate](https://i.imgur.com/0uKKc2T.png)
-- [Ethical Hacking: From Recon to Attack - Purdue University & Simplilearn Certificate](https://i.imgur.com/0153phf.png)
-- [Vulnerability Assessment and Penetration Testing - Purdue University & Simplilearn Certificate](https://i.imgur.com/JrLVSzI.png)
-- [Ransomware and Malware - Defense, Analysis and Response - Purdue University & Simplilearn Certificate](https://i.imgur.com/qz9EN1Q.png)
-- [Application Security, Vulnerability Management, and Cyber Resilience - Purdue University & Simplilearn Certificate](https://i.imgur.com/CxhztOP.png)
-- [Enterprise Infrastructure Security - Purdue University & Simplilearn Certificate](https://i.imgur.com/IQxlZ56.png)
-- [Operating Systems and Networking Essentials - Purdue University & Simplilearn Certificate](https://i.imgur.com/4wOeYdo.png)
-- [Google Cybersecurity Professional Certificate](https://imgur.com/a/Cj8hafS)
+### Highlights
 
-<h2>📚 Currently Learning</h2>
+- Multi-Agent Architecture (CrewAI)
+- MCP Server Integration
+- SerpAPI Research Automation
+- Google Docs Export
+- PDF Report Generation
+- Evidence Validation
+- Metrics & Cost Tracking
+- GitHub Actions CI/CD
+- 32 Automated Tests
 
-- FrontendSimplified Software Engineering Bootcamp
-  - HTML, CSS, JavaScript
-  - React, Firebase, TypeScript, Next.js
-  - APIs, Git, Responsive Design
-  - Data Structures & Algorithms
-  - Portfolio-Scale Frontend Applications
+**Repository**
 
-- Microsoft Applied Agentic AI: Systems, Design & Impact
-  - AI Agents & Multi-Agent Systems
-  - LangChain & LangGraph
-  - RAG Pipelines
-  - Prompt Engineering
-  - AI Workflow Automation
-  - MCP & Agent Orchestration
+https://github.com/matheusado/market-research-gtm
 
-<h2>Software Engineering Projects:</h2> 
+---
 
-<h3>Business Template UI Project:</h3>
+# 💻 Featured Software Projects
 
-Modern business landing page built with HTML, CSS, and JavaScript, featuring a clean user interface and responsive navigation optimized for mobile devices at 640px breakpoints.
+## Business Template UI
 
-Features:
-- Modern multi-section landing page
-- Responsive navigation menu
-- Clean and professional UI design
-- Pricing section
-- Testimonials section
-- Call-to-action section
-- Structured footer layout
-- Reusable and organized CSS architecture
-- Smooth visual styling and user experience
+Modern responsive landing page built with HTML, CSS and JavaScript.
 
-Live Demo:
+**Tech**
+
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
+
+Live Demo
+
 https://matheusado.github.io/business-template-ui/
 
-Repository:
+Repository
+
 https://github.com/matheusado/business-template-ui
 
-<h3>E-Commerce Website Project:</h3>
+---
 
-Responsive frontend e-commerce website built using HTML, CSS, and JavaScript.
+## E-Commerce Website
 
-Features:
-- Responsive mobile-first design
-- Interactive navigation menu
-- Dynamic UI components
-- GitHub Pages deployment
-- Modern layout and animations
+Responsive frontend e-commerce application.
 
-Live Demo:
+**Tech**
+
+- HTML
+- CSS
+- JavaScript
+
+Live Demo
+
 https://matheusado.github.io/E-Commerce-Website-Project/
 
-Repository:
+Repository
+
 https://github.com/matheusado/E-Commerce-Website-Project
 
-<h2>Cybersecurity Projects:</h2>
+---
 
-- https://github.com/matheusado/Vulnerability-Assessment-and-Penetration-Testing-VAPT-
-- VAPT with Greenbone: Deployed the Greenbone Vulnerability Manager (GVM/OpenVAS) on Kali Linux to perform a full VAPT workflow. Configured the scanner, targeted lab systems (Windows Server/Metasploitable), executed automated vulnerability scans, and generated detailed vulnerability reports for remediation and risk prioritization.
+# 🔐 Cybersecurity Portfolio
 
-- https://github.com/matheusado/Exploiting-Android-with-Metasploit
-- Android Exploitation Lab: Created and deployed a malicious APK payload via msfvenom and Apache2 to establish a Reverse TCP Meterpreter session on a victim Android VM. Managed the remote session and executed post-exploitation commands (e.g., sysinfo, dump_contacts) in a controlled ethical hacking environment.
+Hands-on security labs focused on offensive security, defensive security, networking and system administration.
 
+Highlighted repositories
 
-- https://github.com/matheusado/Ethical-Hacking-From-Recon-to-Attack
-- Project executing the full Ethical Hacking lifecycle: Information Gathering using recon-ng and WHOIS, followed by Active Recon with focused Nmap host/service scans. Successfully simulated a basic attack vector and generated detailed HTML reports of all reconnaissance and vulnerability findings.
+- OWASP Juice Shop Security Lab
+- Application Security Assessment
+- Splunk Log Analysis
+- Wireshark Traffic Analysis
+- Metasploit Android Lab
+- Linux SSH Honeypot
+- PowerShell Security Automation
+- Network Segmentation (Cisco)
 
-- https://github.com/matheusado/Secure-File-Storage-and-Access-Management-for-Project-Teams
-- Built a secure Linux file solution enforcing Least Privilege and Traceable Access. Implemented POSIX ACLs and the sticky bit for file segregation. Used auditd for all file activity logging, exporting to an Apache dashboard with Basic Auth for IT review and compliance.
+View all repositories
 
-- https://github.com/matheusado/Offense-Defense-Lab-Reverse-Shell-Exploitation-Detection
-- Project simulating a targeted Reverse TCP Shell attack using Metasploit's msfvenom to bypass firewalls. Demonstrated detection capabilities using Sysinternals TCPView for dynamic analysis and real-time monitoring of malicious network connections. Also included VirusTotal analysis for threat intelligence. 
-  
-- https://github.com/matheusado/Ransomware-and-Malware-Defense-Analysis-and-Response-
-- Executed a full Digital Forensics workflow for incident response, simulating a malware/ransomware attack. Secured evidence acquisition using FTK Imager to create .E01 images, detected data concealment (Steganography via SilentEye/Steghide), and performed Data Recovery from isolated virtual media. Validates expertise in Forensic Analysis and Incident Response protocols.
+https://github.com/matheusado?tab=repositories
 
-- https://github.com/matheusado/appsec-vulnerability-lab
-- Executed a full application security assessment on a deliberately vulnerable web app in a controlled lab environment—from reconnaissance using tools like Nmap, WhatWeb, Dirb/Gobuster, and OWASP ZAP to manual testing with Burp Suite. Discovered critical issues such as exposed admin directories, sensitive configuration disclosures via phpinfo, and hidden flags, and documented findings alongside remediation recommendations to enhance application security and resilience.
-    
-- https://github.com/matheusado/logon-monitor-powershell
-- Implemented a Windows-native auditing solution using Group Policy and PowerShell to track critical security events—successful logons (4624), failed logons (4625 & 4776), and file access (4663)—and parse them into structured HTML reports for easy review. The setup enables both manual execution and scheduled automation via Task Scheduler, giving admins real-time insight into unauthorized access attempts and user activity.
-  
-- https://github.com/matheusado/owasp-juice-shop-security-lab
-- Conducted a full penetration test against the OWASP Juice Shop in a TryHackMe lab using tools like Burp Suite, OWASP ZAP, SQLMap, and SecLists to uncover vulnerabilities such as SQL injection, XSS, directory traversal, brute-force login, and logic bypasses. Documented each exploit with evidence and visual captures, reinforcing secure coding best practices and mastery of OWASP Top 10 risks.
-  
-- https://github.com/matheusado/linux-ssh-honeypot-hardening
-- Deployed a hardened Linux-based SSH honeypot using Fail2ban, TCP Wrappers, Firewalld, and a decoy “bait” user to detect, log, and automatically block brute-force attacks, with bans also mirrored in /etc/hosts.deny for auditing. Delivered real-time monitoring via an Apache-served HTML dashboard and optional Splunk integration for advanced log analysis and visualization.
-  
-- https://github.com/matheusado/Analyzing-Web-Server-Logs-in-Splunk
-- Used Splunk to aggregate and analyze web server logs—indexing access records, HTTP methods, response codes, and client IPs to identify usage trends and anomalies. Crafted SPL queries to filter, visualize, and explore log data, enabling insights into traffic patterns, potential errors, or suspicious activity.
+---
 
-- https://github.com/matheusado/auth0-zendesk-sso-integration
-- Implemented a secure Single Sign-On (SSO) solution between Auth0 and Zendesk using SAML, enabling seamless user authentication and social login capabilities. Enhanced user experience and system security by integrating identity management with streamlined access for support agents and end users.
-  
-- https://github.com/matheusado/Splunk-log-analysis-lab
-- Set up Splunk Enterprise on Windows 11 Pro for centralized log management, ingesting real-world datasets from GitHub. Executed targeted SPL queries to filter by specific timestamps and hosts, showcasing event-level visibility for enhanced incident analysis.
-  
-- https://github.com/matheusado/Configuring-Secure-Network-Segmentation-VLAN-DHCP
-- Designed and implemented a secure, segmented network in Cisco Packet Tracer using DHCP for dynamic IP allocation across a 14-node network and VLAN isolation for a 6-node web server subnet. Configured inter-network routing and access controls to ensure secure communication and efficient segmentation in a realistic, hands-on environment.
-  
-- https://github.com/matheusadusa/Configuring-Secure-Network-Segmentation-and-VLAN-isolation-in-Packet-Tracer
-- A detailed project on secure network segmentation using VLANs and static IP addressing in Cisco Packet Tracer, demonstrating isolated communication and inter-VLAN routing for enhanced security and control.
+# 🛠 Tech Stack
 
-- https://github.com/matheusado/PowerShell-automation-on-administrative-tasks
-- Automated essential Windows IT administrative tasks using PowerShell, including system event monitoring, user management, file backups, and network configuration. Streamlined operations with scripts for event log reporting, bulk user handling, scheduled backups, and IP/network setup to boost efficiency in virtualized environments.
-    
-- https://github.com/matheusado/wireshark-traffic-analysis-and-filtering
-- Demonstrated detailed packet-level analysis using Wireshark on a Kali Linux virtual machine, from capturing Ethernet traffic to applying advanced display filters for HTTPS and IP-specific data. Strengthened understanding of network protocols and gained hands-on experience in real-time traffic inspection and threat analysis.
+### Languages
 
-- https://github.com/matheusadusa/DHCP-Network-Cisco-Visual-Guide
-- A hands-on project demonstrating how to configure a DHCP network in Cisco Packet Tracer, including router setup, dynamic IP assignment, and network connectivity testing.
+- Python
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- SQL
 
-- https://github.com/matheusado/Router-Configuration-for-multiple-networks
-- Set up a single Cisco router to manage multiple subnets within Cisco Packet Tracer, configuring interface IPs, subnet masks, and routing to enable seamless communication between networks. Includes step-by-step visual walkthroughs and testing to validate inter-network connectivity.
- 
-- https://github.com/matheusadusa/Linux-User-Group-Based-Script-Access
-- A Linux project showcasing secure script execution using group-based permissions and shell scripting, focusing on access control through user/group management and tools like chmod and chgrp.
+### Frontend
 
-- https://github.com/matheusadusa/Packet-Tracer-Network-Setup-Star-Ring-Vlan-project
-- A hands-on networking project using Cisco Packet Tracer to configure and analyze star and ring topologies with VLAN segmentation, focusing on real-world data flow, device setup, and connectivity testing.
+- React
+- Next.js
+- Firebase
 
+### AI
 
+- CrewAI
+- LangChain
+- LangGraph
+- MCP
+- RAG
+- Prompt Engineering
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend
 
-Here are some ideas to get you started:
+- Python
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### DevOps
+
+- Git
+- GitHub Actions
+- CI/CD
+
+### Security
+
+- Linux
+- Splunk
+- Wireshark
+- Burp Suite
+- OWASP ZAP
+- Metasploit
+- Nmap
+
+---
+
+# 📚 Education & Certifications
+
+- Microsoft Applied Agentic AI: Systems, Design & Impact
+- Frontend Simplified Software Engineering Bootcamp
+- Purdue University Cybersecurity Professional Program
+- Google Cybersecurity Professional Certificate
+
+---
+
+# 🌱 Currently Learning
+
+- Production AI Agent Systems
+- Advanced React
+- System Design
+- Cloud Architecture
+- LLM Evaluation
+- AI Infrastructure
+
+---
+
+# 🤝 Connect With Me
+
+LinkedIn
+
+https://www.linkedin.com/in/matheusado/
+
+Email
+
+matheusadusa@gmail.com
