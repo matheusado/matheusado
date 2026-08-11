@@ -1,36 +1,41 @@
 <h1 align="center">Hi, I'm Matheus 👋</h1>
 
 <h3 align="center">
-Software Engineer passionate about building intelligent software, modern web applications, and secure systems.
+Software Engineer | AI Engineer | Frontend Developer & Cybersecurity 
 </h3>
 
 <p align="center">
-My background combines Software Engineering, AI Systems, and Cybersecurity, with hands-on experience developing full-stack applications, multi-agent AI solutions, and automation tools using Python, JavaScript, React, and modern AI frameworks.
+I build modern web applications, AI-powered software, and intelligent automation solutions. I'm currently studying Software Engineering at Frontend Simplified (FES Institute), where I'm strengthening my frontend engineering skills with React, JavaScript, TypeScript, and modern web technologies. I have completed Microsoft's Applied Agentic AI: Systems Design & Impact program, the Purdue University Professional Cybersecurity Program, and the Google Cybersecurity Professional Certificate. I enjoy creating production-ready applications that combine software engineering, artificial intelligence, and cybersecurity.
 </p>
-
 ---
 
 # 🚀 Featured Project
 
 ## AI Market Research GTM Platform
 
-Production-ready multi-agent AI platform that automates market research and go-to-market strategy generation.
+A production-ready multi-agent AI platform that automates market research and generates evidence-based Go-to-Market strategies using specialized AI agents.
 
-### Highlights
+### Live Demo
 
-- Multi-Agent Architecture (CrewAI)
-- MCP Server Integration
-- SerpAPI Research Automation
-- Google Docs Export
-- PDF Report Generation
-- Evidence Validation
-- Metrics & Cost Tracking
-- GitHub Actions CI/CD
-- 32 Automated Tests
+🌐 **https://market-research-gtm.streamlit.app**
 
-**Repository**
+### GitHub Repository
 
 https://github.com/matheusado/market-research-gtm
+
+### Features
+
+- 🤖 Multi-Agent AI Architecture (CrewAI)
+- 🔎 Automated Market Research
+- 📊 Competitive Analysis
+- 📈 Go-To-Market Strategy Generation
+- 📄 Professional PDF Report Generation
+- 🧠 MCP Server Integration
+- 🌐 SerpAPI Integration
+- ✅ Evidence Validation
+- 📉 Metrics & Cost Tracking
+- ⚙️ GitHub Actions CI/CD
+- 🧪 30+ Automated Tests
 
 ---
 
