@@ -9,6 +9,45 @@ I build modern web applications, AI-powered software, and intelligent automation
 </p>
 ---
 
+# 🎬 Featured Software Project
+
+## Simplified Flix — Movie Search Application
+
+A responsive movie search application built with HTML, CSS, and JavaScript. Integrates the OMDb API to retrieve movie information, display posters, and allow users to search and sort movies dynamically.
+
+### Live Demo
+
+🌐 **https://matheusado.github.io/simplified-flix-movie-search/**
+
+### GitHub Repository
+
+https://github.com/matheusado/simplified-flix-movie-search
+
+### Features
+
+- 🔎 Dynamic Movie Search
+- 🎬 OMDb API Integration
+- 🖼️ Movie Posters, Titles & Release Years
+- 🔤 Alphabetical Sorting (A–Z / Z–A)
+- 📅 Sorting by Release Year (Newest / Oldest)
+- ⚡ Asynchronous Data Fetching (Fetch API / Async-Await)
+- 💀 Skeleton Loading Animations
+- 🖼️ Fallback Placeholders for Missing Posters
+- ⚠️ Error Handling & Empty Search Results
+- 📱 Responsive Grid Layout
+- ✨ Interactive UI & Hover Animations
+
+### Technologies
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- REST API (OMDb)
+- Fetch API
+- Responsive Web Design
+
+---
+
 # 🚀 Featured Project
 
 ## AI Market Research GTM Platform
