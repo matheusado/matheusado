@@ -1,185 +1,224 @@
+
 <h1 align="center">Hi, I'm Matheus 👋</h1>
 
 <h3 align="center">
-Software Engineer | AI Engineer | Frontend Developer & Cybersecurity 
+Software Engineer | AI Engineering | Frontend Development | Cybersecurity
 </h3>
 
 <p align="center">
-I build modern web applications, AI-powered software, and intelligent automation solutions. I'm currently studying Software Engineering at Frontend Simplified (FES Institute), where I'm strengthening my frontend engineering skills with React, JavaScript, TypeScript, and modern web technologies. I have completed Microsoft's Applied Agentic AI: Systems Design & Impact program, the Purdue University Professional Cybersecurity Program, and the Google Cybersecurity Professional Certificate. I enjoy creating production-ready applications that combine software engineering, artificial intelligence, and cybersecurity.
+I build modern web applications, AI-powered systems, and intelligent automation solutions. I'm currently studying Software Engineering at Frontend Simplified, strengthening my skills in React, JavaScript, TypeScript, and full-stack development. My background includes professional training in agentic AI and cybersecurity through Microsoft, Purdue University, and Google.
 </p>
+
 ---
 
-# 🎬 Featured Software Project
+# 💻 Featured Software Projects
 
-## Simplified Flix — Movie Search Application
+## 📚 React Library — Bookstore Application
 
-A responsive movie search application built with HTML, CSS, and JavaScript. Integrates the OMDb API to retrieve movie information, display posters, and allow users to search and sort movies dynamically.
+A responsive bookstore application built with React and JavaScript, featuring dynamic book browsing, detailed product pages, personalized book recommendations, and an interactive shopping cart.
 
-### Live Demo
+The project demonstrates component-based architecture, React state management, client-side routing, and reusable UI components.
 
-🌐 **https://matheusado.github.io/simplified-flix-movie-search/**
+### 🌐 Live Demo
 
-### GitHub Repository
+https://react-library-search-app.vercel.app/
+
+### 💻 GitHub Repository
+
+https://github.com/matheusado/react-library-search-app
+
+### ✨ Features
+
+- 📚 Dynamic Book Catalog
+- 🔎 Individual Book Detail Pages
+- ⭐ Book Ratings and Recommendations
+- 🛒 Interactive Shopping Cart
+- ➕ Add, Remove, and Update Cart Items
+- 💰 Automatic Subtotal, Tax, and Total Calculations
+- 🔄 React State Management and Conditional Rendering
+- 🧭 Client-Side Navigation with React Router
+- 💀 Skeleton Loading Animations
+- 📱 Responsive Layout
+- 🧩 Reusable React Components
+- 🚀 Deployment on Vercel
+
+### 🛠 Technologies
+
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Router
+- React Hooks
+- Font Awesome
+- Git & GitHub
+- Vercel
+
+---
+
+## 🎬 Simplified Flix — Movie Discovery Application
+
+A responsive movie discovery application developed with vanilla JavaScript, integrating the OMDb API to retrieve movie information and provide dynamic search and sorting functionality.
+
+The project demonstrates asynchronous JavaScript programming, REST API integration, DOM manipulation, and responsive interface development.
+
+### 🌐 Live Demo
+
+https://matheusado.github.io/simplified-flix-movie-search/
+
+### 💻 GitHub Repository
 
 https://github.com/matheusado/simplified-flix-movie-search
 
-### Features
+### ✨ Features
 
 - 🔎 Dynamic Movie Search
-- 🎬 OMDb API Integration
-- 🖼️ Movie Posters, Titles & Release Years
+- 🎬 OMDb REST API Integration
+- 🖼️ Movie Posters, Titles, and Release Years
 - 🔤 Alphabetical Sorting (A–Z / Z–A)
 - 📅 Sorting by Release Year (Newest / Oldest)
 - ⚡ Asynchronous Data Fetching (Fetch API / Async-Await)
 - 💀 Skeleton Loading Animations
-- 🖼️ Fallback Placeholders for Missing Posters
-- ⚠️ Error Handling & Empty Search Results
+- 🖼️ Fallback Images for Missing Posters
+- ⚠️ Error Handling and Empty Search States
 - 📱 Responsive Grid Layout
-- ✨ Interactive UI & Hover Animations
+- ✨ Interactive UI and Hover Effects
 
-### Technologies
+### 🛠 Technologies
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - REST API (OMDb)
 - Fetch API
+- Async/Await
 - Responsive Web Design
 
 ---
 
-# 🚀 Featured Project
+# 🤖 Featured AI Project
 
-## AI Market Research GTM Platform
+## AI Market Research & Go-to-Market Intelligence Platform
 
-A production-ready multi-agent AI platform that automates market research and generates evidence-based Go-to-Market strategies using specialized AI agents.
+A multi-agent AI research platform designed to automate market intelligence workflows and generate evidence-based go-to-market strategies.
 
-### Live Demo
+The platform orchestrates specialized AI agents to conduct market research, analyze competitors, synthesize findings, and produce structured strategic reports.
 
-🌐 **https://market-research-gtm.streamlit.app**
+### 🌐 Live Demo
 
-### GitHub Repository
+https://market-research-gtm.streamlit.app
+
+### 💻 GitHub Repository
 
 https://github.com/matheusado/market-research-gtm
 
-### Features
+### ✨ Features
 
-- 🤖 Multi-Agent AI Architecture (CrewAI)
+- 🤖 Multi-Agent AI Architecture with CrewAI
 - 🔎 Automated Market Research
-- 📊 Competitive Analysis
-- 📈 Go-To-Market Strategy Generation
-- 📄 Professional PDF Report Generation
-- 🧠 MCP Server Integration
+- 📊 Competitive Intelligence and Analysis
+- 📈 Go-to-Market Strategy Generation
+- 📄 Automated PDF Report Generation
+- 🧠 Model Context Protocol (MCP) Integration
 - 🌐 SerpAPI Integration
-- ✅ Evidence Validation
-- 📉 Metrics & Cost Tracking
+- ✅ Research Evidence Validation
+- 📉 Execution Metrics and Cost Tracking
 - ⚙️ GitHub Actions CI/CD
 - 🧪 30+ Automated Tests
 
----
+### 🛠 Technologies
 
-# 💻 Featured Software Projects
-
-## Business Template UI
-
-Modern responsive landing page built with HTML, CSS and JavaScript.
-
-**Tech**
-
-- HTML
-- CSS
-- JavaScript
-- Responsive Design
-
-Live Demo
-
-https://matheusado.github.io/business-template-ui/
-
-Repository
-
-https://github.com/matheusado/business-template-ui
+- Python
+- CrewAI
+- Streamlit
+- MCP
+- SerpAPI
+- GitHub Actions
+- AI Agent Orchestration
 
 ---
 
-## E-Commerce Website
+# 🌐 Additional Frontend Projects
 
-Responsive frontend e-commerce application.
+## Business Landing Page — Responsive UI
 
-**Tech**
+A modern business landing page demonstrating responsive layouts, clean visual design, and frontend styling techniques.
 
-- HTML
-- CSS
-- JavaScript
+**Technologies:** HTML5, CSS3, JavaScript, Responsive Web Design
 
-Live Demo
+**Live Demo:** https://matheusado.github.io/business-template-ui/
 
-https://matheusado.github.io/E-Commerce-Website-Project/
-
-Repository
-
-https://github.com/matheusado/E-Commerce-Website-Project
+**Repository:** https://github.com/matheusado/business-template-ui
 
 ---
 
 # 🔐 Cybersecurity Portfolio
 
-Hands-on security labs focused on offensive security, defensive security, networking and system administration.
+Hands-on cybersecurity projects covering application security, penetration testing, security monitoring, network analysis, and system administration.
 
-Highlighted repositories
+### Selected Security Labs
 
-- OWASP Juice Shop Security Lab
+- OWASP Juice Shop — Web Application Security Testing
 - Application Security Assessment
-- Splunk Log Analysis
-- Wireshark Traffic Analysis
-- Metasploit Android Lab
+- Splunk — Security Log Analysis
+- Wireshark — Network Traffic Analysis
+- Metasploit — Android Security Lab
 - Linux SSH Honeypot
 - PowerShell Security Automation
-- Network Segmentation (Cisco)
+- Cisco — Network Segmentation
 
-View all repositories
+**Explore My Repositories:**
 
 https://github.com/matheusado?tab=repositories
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technical Skills
 
-### Languages
+### Programming Languages
 
 - Python
-- JavaScript
+- JavaScript (ES6+)
 - TypeScript
-- HTML
-- CSS
+- HTML5
+- CSS3
 - SQL
 
-### Frontend
+### Frontend Development
 
 - React
 - Next.js
+- React Router
+- React Hooks
+- Responsive Web Design
 - Firebase
 
-### AI
+### Artificial Intelligence
 
 - CrewAI
 - LangChain
 - LangGraph
-- MCP
-- RAG
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
+- AI Agent Orchestration
 
-### Backend
+### Backend & APIs
 
 - Python
-- REST APIs
+- REST API Integration
+- Asynchronous Programming
+- JSON Data Processing
 
-### DevOps
+### Development & Deployment
 
-- Git
+- Git & GitHub
 - GitHub Actions
 - CI/CD
+- Vercel
+- Streamlit
 
-### Security
+### Cybersecurity
 
 - Linux
 - Splunk
@@ -191,37 +230,35 @@ https://github.com/matheusado?tab=repositories
 
 ---
 
-# 📚 Education & Certifications
+# 🎓 Education & Professional Training
 
-- Microsoft Applied Agentic AI: Systems, Design & Impact
-- Frontend Simplified Software Engineering Bootcamp
-- Purdue University Cybersecurity Professional Program
-- Google Cybersecurity Professional Certificate
+- **Microsoft** — Applied Agentic AI: Systems Design & Impact
+- **Frontend Simplified** — Software Engineering Bootcamp (In Progress)
+- **Purdue University** — Professional Cybersecurity Program
+- **Google** — Cybersecurity Professional Certificate
 
 ---
 
 # 🌱 Currently Learning
 
-### Frontend Simplified Software Engineering Bootcamp
+### Software Engineering & Full-Stack Development
 
-- Advanced JavaScript & TypeScript
-- React & Next.js
+- Advanced JavaScript and TypeScript
+- React and Next.js
 - Full-Stack Application Development
-- Firebase & Backend Integration
-- REST APIs
-- Data Structures & Algorithms
-- Software Architecture & Design Patterns
-- Git & Collaborative Development
+- Firebase and Backend Integration
+- REST APIs and Application Architecture
+- Data Structures and Algorithms
+- Software Design Patterns
+- Git and Collaborative Development
 - Technical Interview Preparation
 
 ---
 
 # 🤝 Connect With Me
 
-LinkedIn
+**LinkedIn:** https://www.linkedin.com/in/matheusado/
 
-https://www.linkedin.com/in/matheusado/
+**Email:** matheusadusa@gmail.com
 
-Email
-
-matheusadusa@gmail.com
+**GitHub:** https://github.com/matheusado
