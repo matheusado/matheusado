@@ -58,13 +58,15 @@ https://github.com/matheusado/react-library-search-app
 
 ## 🎬 Simplified Flix — Movie Discovery Application
 
-A responsive movie discovery application developed with vanilla JavaScript, integrating the OMDb API to retrieve movie information and provide dynamic search and sorting functionality.
+A modern, responsive movie discovery application built with **React, Vite, and JavaScript**, integrating the **OMDb REST API** to provide randomized movie recommendations, dynamic search, detailed movie information, and interactive sorting functionality.
 
-The project demonstrates asynchronous JavaScript programming, REST API integration, DOM manipulation, and responsive interface development.
+Originally developed with vanilla JavaScript, the application was refactored into a component-based React architecture, incorporating client-side routing, React Hooks, asynchronous API integration, and responsive design.
+
+The project demonstrates practical experience with modern frontend development, REST API consumption, state management, reusable components, and production deployment.
 
 ### 🌐 Live Demo
 
-https://matheusado.github.io/simplified-flix-movie-search/
+https://simplified-flix-movie-search.vercel.app/
 
 ### 💻 GitHub Repository
 
@@ -72,27 +74,45 @@ https://github.com/matheusado/simplified-flix-movie-search
 
 ### ✨ Features
 
-- 🔎 Dynamic Movie Search
-- 🎬 OMDb REST API Integration
-- 🖼️ Movie Posters, Titles, and Release Years
-- 🔤 Alphabetical Sorting (A–Z / Z–A)
-- 📅 Sorting by Release Year (Newest / Oldest)
-- ⚡ Asynchronous Data Fetching (Fetch API / Async-Await)
-- 💀 Skeleton Loading Animations
-- 🖼️ Fallback Images for Missing Posters
-- ⚠️ Error Handling and Empty Search States
-- 📱 Responsive Grid Layout
-- ✨ Interactive UI and Hover Effects
+- 🎲 **Randomized Movie Discovery** — Displays 20 randomly selected movies from a curated collection of 50 movies across 10 genres.
+- 🔎 **Dynamic Movie Search** — Search for movies and television titles using the OMDb API.
+- 🎬 **Detailed Movie Pages** — View posters, plot summaries, IMDb ratings, release dates, genres, directors, actors, writers, languages, and awards.
+- 🔗 **Dynamic Routing** — Individual movie pages using React Router and IMDb identifiers.
+- 🔤 **Alphabetical Sorting** — Sort movie results from A–Z or Z–A.
+- 📅 **Release Year Sorting** — Sort movies from newest to oldest or oldest to newest.
+- ⚡ **Asynchronous API Integration** — Retrieve movie information using the Fetch API and async/await.
+- 💀 **Skeleton Loading Animations** — Display loading placeholders while movie information is retrieved.
+- 🖼️ **Poster Fallbacks** — Handle missing or unavailable movie posters gracefully.
+- ⚠️ **Error Handling** — Display helpful messages for failed requests, invalid movie IDs, and empty search results.
+- 🔙 **Navigation and Search Persistence** — Preserve search queries and sorting preferences when navigating between movie results and details.
+- 📱 **Responsive Design** — Optimized layouts for mobile phones, tablets, and desktop screens.
+- 🎨 **Interactive UI** — Movie cards, hover effects, a translucent details panel, and a responsive navigation bar.
+- 🚀 **Production Deployment** — Deployed on Vercel with GitHub integration and automatic deployments.
 
 ### 🛠 Technologies
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- REST API (OMDb)
-- Fetch API
-- Async/Await
-- Responsive Web Design
+- **React 19** — Component-based user interfaces
+- **Vite** — Modern frontend development and production builds
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- **React Router** — Client-side navigation and dynamic routes
+- **React Hooks** — useState, useEffect, and useMemo
+- **OMDb REST API** — Movie search and detailed information
+- **Fetch API & Async/Await** — Asynchronous data fetching
+- **Responsive Web Design** — CSS Grid, Flexbox, and media queries
+- **Git & GitHub** — Version control and source code management
+- **Vercel** — Hosting and continuous deployment
+
+### 🏗️ Architecture & Development
+
+- Refactored a vanilla JavaScript application into reusable React components.
+- Organized the codebase into components, pages, and movie discovery data.
+- Implemented dynamic routes for individual movie details.
+- Managed application state and API requests using React Hooks.
+- Used URL query parameters to preserve search and sorting preferences.
+- Implemented request cancellation with AbortController to prevent outdated API responses.
+- Configured Vite for optimized production builds.
+- Configured Vercel routing to support direct access to movie detail pages.
 
 ---
 
