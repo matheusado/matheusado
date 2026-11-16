@@ -11,6 +11,69 @@ I build modern web applications, AI-powered systems, and intelligent automation 
 
 ---
 
+## 🎨 NFT Marketplace — React Internship Project
+
+A modern, responsive NFT marketplace application built with **React and JavaScript**, featuring dynamic NFT discovery, detailed item pages, creator profiles, and interactive scroll animations.
+
+Developed as part of the **Frontend Simplified Software Engineering Internship**, the project demonstrates practical experience with React component architecture, REST API integration, dynamic routing, asynchronous data fetching, loading states, error handling, and responsive frontend development.
+
+### 🌐 Live Demo
+
+https://matheus-internship.vercel.app/
+
+### 💻 GitHub Repository
+
+https://github.com/matheusado/Matheus-internship
+
+### ✨ Features
+
+- 🖼️ **Dynamic NFT Discovery** — Browse NFT collections and explore individual digital assets.
+- 🔎 **NFT Details Pages** — View artwork, descriptions, prices, likes, views, and ownership information.
+- 👤 **Creator and Owner Profiles** — Explore author pages and associated NFT collections.
+- 🔗 **Dynamic Routing** — Navigate between Explore, Author, and Item Details pages using React Router.
+- 🌐 **REST API Integration** — Fetch NFT listings, creator information, and item details from cloud-based API endpoints.
+- ⚡ **Asynchronous Data Fetching** — Retrieve and display dynamic content using Axios and React Hooks.
+- 💀 **Skeleton Loading States** — Display loading placeholders while NFT data is being retrieved.
+- ⚠️ **Error Handling** — Handle invalid NFT IDs, missing data, and failed API requests with retry options.
+- 🎞️ **AOS Scroll Animations** — Smooth fade, zoom, and staggered animations across marketplace pages.
+- 🎠 **Interactive NFT Carousels** — Browse featured collections using Keen Slider.
+- ♿ **Reduced-Motion Accessibility** — Respect user preferences for reduced animations.
+- 📱 **Responsive Design** — Layouts adapted for desktop, tablet, and mobile devices.
+- 🧩 **Reusable React Components** — Organized, maintainable component-based UI architecture.
+- 🚀 **Production Deployment** — Hosted on Vercel with GitHub integration.
+
+### 🛠 Technologies
+
+- **React** — Component-based user interfaces
+- **JavaScript (ES6+)** — Application logic and interactivity
+- **HTML5 & CSS3** — Structure, styling, and responsive layouts
+- **React Router** — Client-side navigation and dynamic routes
+- **React Hooks** — useState, useEffect, and component lifecycle management
+- **Axios** — Asynchronous REST API requests
+- **AOS (Animate On Scroll)** — Scroll-triggered animations
+- **Keen Slider** — Interactive NFT carousels
+- **REST APIs** — NFT, creator, and collection data
+- **Create React App** — Application build tooling
+- **Git & GitHub** — Version control and pull request workflow
+- **Vercel** — Production hosting and deployment
+
+### 🏗️ Architecture & Development
+
+- Built and maintained reusable React components across multiple marketplace pages.
+- Implemented dynamic routes for NFT details and creator profiles.
+- Integrated external APIs for dynamic retrieval of NFT information.
+- Managed loading, success, and error states using React Hooks.
+- Added retry functionality and navigation fallbacks for failed requests.
+- Implemented responsive layouts and scroll-triggered animations.
+- Preserved carousel behavior while integrating AOS animations.
+- Organized internship assignments using Git branches, commits, and pull requests.
+- Deployed the completed application to Vercel from the GitHub `main` branch.
+
+---
+  
+
+---
+
 # 💻 Featured Software Projects
 
 ## 📚 React Library — Bookstore Application
