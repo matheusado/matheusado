@@ -70,9 +70,6 @@ https://github.com/matheusado/Matheus-internship
 - Deployed the completed application to Vercel from the GitHub `main` branch.
 
 ---
-  
-
----
 
 # 💻 Featured Software Projects
 
