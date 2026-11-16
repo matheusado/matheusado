@@ -11,6 +11,10 @@ I build modern web applications, AI-powered systems, and intelligent automation 
 
 ---
 
+# 💻 Featured Software Projects
+
+---
+
 ## 🎨 NFT Marketplace — React Internship Project
 
 A modern, responsive NFT marketplace application built with **React and JavaScript**, featuring dynamic NFT discovery, detailed item pages, creator profiles, and interactive scroll animations.
@@ -70,8 +74,6 @@ https://github.com/matheusado/Matheus-internship
 - Deployed the completed application to Vercel from the GitHub `main` branch.
 
 ---
-
-# 💻 Featured Software Projects
 
 ## 📚 React Library — Bookstore Application
 
