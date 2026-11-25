@@ -255,104 +255,144 @@ A modern business landing page demonstrating responsive layouts, clean visual de
 
 # 🔐 Cybersecurity Portfolio
 
-Hands-on cybersecurity projects covering application security, penetration testing, security monitoring, network analysis, and system administration.
+A collection of 20 hands-on cybersecurity projects and technical labs covering offensive and defensive security, vulnerability assessment, network infrastructure, security operations, digital forensics, identity management, and security automation.
 
-### Selected Security Labs
+### 🛡️ Application Security & Penetration Testing
 
 - OWASP Juice Shop — Web Application Security Testing
-- Application Security Assessment
+- Application Security Vulnerability Assessment
+- Vulnerability Assessment and Penetration Testing (VAPT)
+- Ethical Hacking — From Reconnaissance to Attack
+- Android Security Testing with Metasploit
+
+### 🌐 Network Security & Infrastructure
+
+- Cisco Packet Tracer — Star and Ring Network Topologies
+- DHCP Network Configuration
+- Router Configuration for Multiple Networks
+- Secure Network Segmentation — VLAN & DHCP
+- Secure Network Segmentation — Static IP & VLAN Isolation
+
+### 📊 Security Operations & Threat Detection
+
 - Splunk — Security Log Analysis
-- Wireshark — Network Traffic Analysis
-- Metasploit — Android Security Lab
-- Linux SSH Honeypot
-- PowerShell Security Automation
-- Cisco — Network Segmentation
+- Splunk — Web Server Log Analysis
+- Wireshark — Network Traffic Analysis and Filtering
+- Windows Logon Monitoring with PowerShell
+- Linux SSH Honeypot and System Hardening
 
-**Explore My Repositories:**
+### 🔑 Identity & Access Management
 
-https://github.com/matheusado?tab=repositories
+- Auth0 and Zendesk — Single Sign-On Integration
+- Linux User and Group-Based Access Control
+- Secure File Storage and Access Management
+
+### 🔍 Digital Forensics & Incident Response
+
+- Ransomware and Malware — Defense, Analysis, and Response
+- Offense-Defense Lab — Reverse Shell Exploitation and Detection
+
+### ⚙️ Security Automation
+
+- PowerShell Automation for Administrative Tasks
+
+### 📂 Explore My Cybersecurity Repositories
+
+[![Cybersecurity Portfolio](https://img.shields.io/badge/Cybersecurity-20_Projects-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/matheusado-cybersecurity/repositories)
 
 ---
 
-# 🛠 Technical Skills
+# 🛠️ Cybersecurity Technical Skills
 
-### Programming Languages
+### Application Security & Ethical Hacking
 
-- Python
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- SQL
-
-### Frontend Development
-
-- React
-- Next.js
-- React Router
-- React Hooks
-- Responsive Web Design
-- Firebase
-
-### Artificial Intelligence
-
-- CrewAI
-- LangChain
-- LangGraph
-- Model Context Protocol (MCP)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- AI Agent Orchestration
-
-### Backend & APIs
-
-- Python
-- REST API Integration
-- Asynchronous Programming
-- JSON Data Processing
-
-### Development & Deployment
-
-- Git & GitHub
-- GitHub Actions
-- CI/CD
-- Vercel
-- Streamlit
-
-### Cybersecurity
-
-- Linux
-- Splunk
-- Wireshark
 - Burp Suite
 - OWASP ZAP
+- OWASP Top 10
 - Metasploit
 - Nmap
+- OpenVAS / Greenbone
+- Recon-ng
+- OSINT
+- Vulnerability Assessment
+- Penetration Testing
+
+### Security Operations & Monitoring
+
+- Splunk Enterprise
+- Search Processing Language (SPL)
+- SIEM
+- Wireshark
+- TCPView
+- Security Log Analysis
+- Network Traffic Analysis
+- Threat Detection
+- Windows Event Viewer
+- Security Auditing
+
+### Digital Forensics & Incident Response
+
+- FTK Imager
+- VirusTotal
+- SilentEye
+- Steghide
+- Digital Evidence Preservation
+- Malware Analysis
+- Disk Imaging
+- Data Recovery
+- Steganography
+
+### Network Security & Infrastructure
+
+- Cisco Packet Tracer
+- Cisco IOS
+- TCP/IP
+- VLAN
+- DHCP
+- DNS
+- IP Subnetting
+- Routing & Switching
+- Network Segmentation
+- Firewall Configuration
+
+### Identity & Access Management
+
+- Auth0
+- SAML
+- Single Sign-On (SSO)
+- Access Control Lists (ACLs)
+- User and Group Management
+- Principle of Least Privilege
+- File and Directory Permissions
+
+### Operating Systems & System Hardening
+
+- Kali Linux
+- Ubuntu
+- Windows 11 Pro
+- Windows Server
+- SSH Hardening
+- Fail2ban
+- Firewalld
+- Apache
+- auditd
+- Group Policy
+- VirtualBox
+
+### Security Scripting & Automation
+
+- PowerShell
+- Bash
+- Automated Security Reporting
+- System Event Monitoring
+- Administrative Task Automation
 
 ---
 
-# 🎓 Education & Professional Training
+# 🎓 Cybersecurity Education & Professional Training
 
-- **Microsoft** — Applied Agentic AI: Systems Design & Impact
-- **Frontend Simplified** — Software Engineering Bootcamp (In Progress)
 - **Purdue University** — Professional Cybersecurity Program
 - **Google** — Cybersecurity Professional Certificate
-
----
-
-# 🌱 Currently Learning
-
-### Software Engineering & Full-Stack Development
-
-- Advanced JavaScript and TypeScript
-- React and Next.js
-- Full-Stack Application Development
-- Firebase and Backend Integration
-- REST APIs and Application Architecture
-- Data Structures and Algorithms
-- Software Design Patterns
-- Git and Collaborative Development
-- Technical Interview Preparation
 
 ---
 
