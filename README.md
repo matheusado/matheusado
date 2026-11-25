@@ -15,63 +15,119 @@ I build modern web applications, AI-powered systems, and intelligent automation 
 
 ---
 
-## 🎨 NFT Marketplace — React Internship Project
+# 🎨 NFT Marketplace — React Internship Project
 
-A modern, responsive NFT marketplace application built with **React and JavaScript**, featuring dynamic NFT discovery, detailed item pages, creator profiles, and interactive scroll animations.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-Developed as part of the **Frontend Simplified Software Engineering Internship**, the project demonstrates practical experience with React component architecture, REST API integration, dynamic routing, asynchronous data fetching, loading states, error handling, and responsive frontend development.
+## 📖 Project Overview
 
-### 🌐 Live Demo
+A modern, responsive NFT marketplace application built with **React and JavaScript**, featuring dynamic NFT discovery, detailed item pages, creator profiles, interactive carousels, and smooth scroll animations.
 
-https://matheus-internship.vercel.app/
+Developed as part of the **FES Institute (Frontend Simplified) Software Engineering Internship**, this project demonstrates practical experience in frontend development, React component architecture, REST API integration, dynamic routing, asynchronous data fetching, and responsive user interface design.
 
-### 💻 GitHub Repository
+The project involved transforming a starter application into a dynamic, API-driven marketplace through structured internship assignments, Git branching, and pull requests.
 
-https://github.com/matheusado/Matheus-internship
+## 🌐 Live Demo & Repository
 
-### ✨ Features
+- **Live Application:** [View NFT Marketplace](https://matheus-internship.vercel.app/)
+- **Source Code:** [GitHub Repository](https://github.com/matheusado/Matheus-internship)
+
+## ✨ Features
 
 - 🖼️ **Dynamic NFT Discovery** — Browse NFT collections and explore individual digital assets.
 - 🔎 **NFT Details Pages** — View artwork, descriptions, prices, likes, views, and ownership information.
-- 👤 **Creator and Owner Profiles** — Explore author pages and associated NFT collections.
+- 👤 **Creator and Owner Profiles** — Explore author profiles and their associated NFT collections.
 - 🔗 **Dynamic Routing** — Navigate between Explore, Author, and Item Details pages using React Router.
-- 🌐 **REST API Integration** — Fetch NFT listings, creator information, and item details from cloud-based API endpoints.
-- ⚡ **Asynchronous Data Fetching** — Retrieve and display dynamic content using Axios and React Hooks.
-- 💀 **Skeleton Loading States** — Display loading placeholders while NFT data is being retrieved.
+- 🌐 **REST API Integration** — Retrieve NFT listings, creator information, and item details from cloud-based API endpoints.
+- ⚡ **Asynchronous Data Fetching** — Fetch and display dynamic content using Axios and React Hooks.
+- 💀 **Skeleton Loading States** — Improve the user experience with loading placeholders while data is being retrieved.
 - ⚠️ **Error Handling** — Handle invalid NFT IDs, missing data, and failed API requests with retry options.
-- 🎞️ **AOS Scroll Animations** — Smooth fade, zoom, and staggered animations across marketplace pages.
+- 🎞️ **AOS Scroll Animations** — Implement smooth fade, zoom, and staggered animations across marketplace pages.
 - 🎠 **Interactive NFT Carousels** — Browse featured collections using Keen Slider.
 - ♿ **Reduced-Motion Accessibility** — Respect user preferences for reduced animations.
-- 📱 **Responsive Design** — Layouts adapted for desktop, tablet, and mobile devices.
-- 🧩 **Reusable React Components** — Organized, maintainable component-based UI architecture.
-- 🚀 **Production Deployment** — Hosted on Vercel with GitHub integration.
+- 📱 **Responsive Design** — Deliver adaptive layouts for desktop, tablet, and mobile devices.
+- 🧩 **Reusable React Components** — Maintain an organized, component-based UI architecture.
+- 🚀 **Production Deployment** — Host the application on Vercel with GitHub integration.
 
-### 🛠 Technologies
+## 🛠️ Technologies & Tools
 
-- **React** — Component-based user interfaces
-- **JavaScript (ES6+)** — Application logic and interactivity
-- **HTML5 & CSS3** — Structure, styling, and responsive layouts
-- **React Router** — Client-side navigation and dynamic routes
-- **React Hooks** — useState, useEffect, and component lifecycle management
-- **Axios** — Asynchronous REST API requests
-- **AOS (Animate On Scroll)** — Scroll-triggered animations
-- **Keen Slider** — Interactive NFT carousels
-- **REST APIs** — NFT, creator, and collection data
-- **Create React App** — Application build tooling
-- **Git & GitHub** — Version control and pull request workflow
-- **Vercel** — Production hosting and deployment
+| Technology | Purpose |
+| --- | --- |
+| React | Component-based user interfaces |
+| JavaScript (ES6+) | Application logic and interactivity |
+| HTML5 & CSS3 | Structure, styling, and responsive layouts |
+| React Router | Client-side navigation and dynamic routing |
+| React Hooks | State management and side effects |
+| Axios | Asynchronous REST API requests |
+| AOS (Animate On Scroll) | Scroll-triggered animations |
+| Keen Slider | Responsive and interactive carousels |
+| REST APIs | Dynamic NFT, creator, and collection data |
+| Create React App | Application build tooling |
+| Git & GitHub | Version control and pull request workflow |
+| Vercel | Application hosting and deployment |
 
-### 🏗️ Architecture & Development
+## 🏗️ Architecture & Development
 
 - Built and maintained reusable React components across multiple marketplace pages.
 - Implemented dynamic routes for NFT details and creator profiles.
-- Integrated external APIs for dynamic retrieval of NFT information.
-- Managed loading, success, and error states using React Hooks.
+- Integrated external REST APIs for dynamic retrieval of NFT information.
+- Replaced static content with dynamically fetched API data.
+- Managed loading, success, and error states using `useState` and `useEffect`.
 - Added retry functionality and navigation fallbacks for failed requests.
 - Implemented responsive layouts and scroll-triggered animations.
-- Preserved carousel behavior while integrating AOS animations.
-- Organized internship assignments using Git branches, commits, and pull requests.
+- Preserved carousel functionality while integrating AOS animations.
+- Organized internship assignments using dedicated Git branches, commits, and pull requests.
 - Deployed the completed application to Vercel from the GitHub `main` branch.
+
+## 💼 Professional Internship Experience
+
+This project was completed as part of a structured software engineering internship through **FES Institute (Frontend Simplified)**.
+
+The internship provided practical experience in:
+
+- Working with an existing React codebase.
+- Implementing assigned frontend development features.
+- Integrating external APIs into existing applications.
+- Debugging and resolving application issues.
+- Following structured development workflows.
+- Managing feature branches and submitting pull requests.
+- Building responsive, accessible, and maintainable user interfaces.
+- Deploying a frontend application to a live production environment.
+
+## 🎓 Certification & Graduation
+
+**FES Institute — Frontend Development Bootcamp**
+
+Successfully completed the Frontend Development Bootcamp at FES Institute, including a practical internship in a professional environment.
+
+### Verified Technical Proficiencies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+<p align="center">
+  <a href="./fes-certificate.png">
+    <img src="./fes-certificate.png" alt="FES Institute Certificate of Graduation — Matheus Antunes" width="750" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Certificate of Graduation — FES Institute Frontend Development Bootcamp</em>
+</p>
+
+<p align="center">
+  <a href="./fes-certificate.png">View Full-Size Certificate</a>
+</p>
 
 ---
 
