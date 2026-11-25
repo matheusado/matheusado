@@ -116,17 +116,13 @@ Successfully completed the Frontend Development Bootcamp at FES Institute, inclu
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 <p align="center">
-  <a href="./fes-certificate.png">
-    <img src="./fes-certificate.png" alt="FES Institute Certificate of Graduation — Matheus Antunes" width="750" />
+  <a href="https://github.com/matheusado/Matheus-internship/blob/main/fes-certificate.png">
+    <img src="https://raw.githubusercontent.com/matheusado/Matheus-internship/main/fes-certificate.png" alt="FES Institute Certificate of Graduation" width="650" />
   </a>
 </p>
 
 <p align="center">
-  <em>Certificate of Graduation — FES Institute Frontend Development Bootcamp</em>
-</p>
-
-<p align="center">
-  <a href="./fes-certificate.png">View Full-Size Certificate</a>
+  <a href="https://github.com/matheusado/Matheus-internship/blob/main/fes-certificate.png">View Full-Size Certificate</a>
 </p>
 
 ---
