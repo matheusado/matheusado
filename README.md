@@ -116,12 +116,6 @@ The internship provided hands-on experience in:
 - Building responsive, accessible, and maintainable user interfaces.
 - Deploying a frontend application to a live production environment.
 
-## 🎓 Education & Certifications
-
-### FES Institute — Frontend Development Bootcamp
-
-Successfully completed the Frontend Development Bootcamp at FES Institute (Frontend Simplified), gaining practical training in modern frontend technologies and software development.
-
 ### FES Institute — Certificate of Internship Completion
 
 Successfully completed the **NDL Animation Internship**, gaining hands-on experience developing interactive animations and modern web applications in a professional internship environment.
