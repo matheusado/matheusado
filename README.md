@@ -145,22 +145,6 @@ Successfully completed the **NDL Animation Internship**, gaining hands-on experi
 
 ---
 
-## 🤝 Connect With Me
-
-I am open to opportunities in frontend development, software engineering, and AI-powered application development.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheusado/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/matheusado">
-    <img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-
----
-
 ## 📚 React Library — Bookstore Application
 
 A responsive bookstore application built with React and JavaScript, featuring dynamic book browsing, detailed product pages, personalized book recommendations, and an interactive shopping cart.
