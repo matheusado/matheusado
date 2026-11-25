@@ -6,7 +6,7 @@ Frontend Software Engineer | AI Engineering | Cybersecurity
 </h3>
 
 <p align="center">
-I build modern web applications, AI-powered systems, and intelligent automation solutions. I successfully completed the Frontend Development Bootcamp and NDL Animation Internship at FES Institute (Frontend Simplified), gaining hands-on experience in React, JavaScript, REST API integration, and modern frontend development. My background also includes professional training in agentic AI and cybersecurity through Microsoft, Purdue University, and Google.
+I build modern web applications, AI-powered systems, and intelligent automation solutions. I'm currently pursuing the Software Engineering Bootcamp at FES Institute (Frontend Simplified) and have successfully completed the NDL Animation Internship, gaining hands-on experience in React, JavaScript, REST API integration, interactive animations, and responsive frontend development. My background also includes professional training in agentic AI and cybersecurity through Microsoft, Purdue University, and Google.
 </p>
 
 <p align="center">
