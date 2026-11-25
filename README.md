@@ -2,11 +2,20 @@
 <h1 align="center">Hi, I'm Matheus 👋</h1>
 
 <h3 align="center">
-Software Engineer | AI Engineering | Frontend Development | Cybersecurity
+Frontend Software Engineer | AI Engineering | Cybersecurity
 </h3>
 
 <p align="center">
-I build modern web applications, AI-powered systems, and intelligent automation solutions. I'm currently studying Software Engineering at Frontend Simplified, strengthening my skills in React, JavaScript, TypeScript, and full-stack development. My background includes professional training in agentic AI and cybersecurity through Microsoft, Purdue University, and Google.
+I build modern web applications, AI-powered systems, and intelligent automation solutions. I successfully completed the Frontend Development Bootcamp and NDL Animation Internship at FES Institute (Frontend Simplified), gaining hands-on experience in React, JavaScript, REST API integration, and modern frontend development. My background also includes professional training in agentic AI and cybersecurity through Microsoft, Purdue University, and Google.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheusado/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/matheusado/Matheus-internship/blob/main/fes-internship-certificate.pdf">
+    <img src="https://img.shields.io/badge/FES_Institute-Internship_Certificate-5842F5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Internship Certificate"/>
+  </a>
 </p>
 
 ---
@@ -15,7 +24,7 @@ I build modern web applications, AI-powered systems, and intelligent automation 
 
 ---
 
-# 🎨 NFT Marketplace — React Internship Project
+# 🎨 Ultraverse — NFT Marketplace | React Internship Project
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,16 +34,17 @@ I build modern web applications, AI-powered systems, and intelligent automation 
 
 ## 📖 Project Overview
 
-A modern, responsive NFT marketplace application built with **React and JavaScript**, featuring dynamic NFT discovery, detailed item pages, creator profiles, interactive carousels, and smooth scroll animations.
+Ultraverse is a modern, responsive NFT marketplace application built with **React and JavaScript**, featuring dynamic NFT discovery, detailed item pages, creator profiles, interactive carousels, and smooth scroll animations.
 
-Developed as part of the **FES Institute (Frontend Simplified) Software Engineering Internship**, this project demonstrates practical experience in frontend development, React component architecture, REST API integration, dynamic routing, asynchronous data fetching, and responsive user interface design.
+Enhanced as part of the **NDL Animation Internship at FES Institute (Frontend Simplified)**, this project demonstrates practical experience in frontend software engineering, React component architecture, REST API integration, dynamic routing, asynchronous data fetching, interactive animations, and responsive user interface design.
 
-The project involved transforming a starter application into a dynamic, API-driven marketplace through structured internship assignments, Git branching, and pull requests.
+The project involved transforming an existing starter application into a dynamic, API-driven marketplace through structured internship assignments, Git branching, and pull requests.
 
 ## 🌐 Live Demo & Repository
 
 - **Live Application:** [View NFT Marketplace](https://matheus-internship.vercel.app/)
 - **Source Code:** [GitHub Repository](https://github.com/matheusado/Matheus-internship)
+- **Internship Certificate:** [View Certificate of Completion](https://github.com/matheusado/Matheus-internship/blob/main/fes-internship-certificate.pdf)
 
 ## ✨ Features
 
@@ -80,39 +90,80 @@ The project involved transforming a starter application into a dynamic, API-driv
 - Added retry functionality and navigation fallbacks for failed requests.
 - Implemented responsive layouts and scroll-triggered animations.
 - Preserved carousel functionality while integrating AOS animations.
+- Implemented reduced-motion accessibility support.
 - Organized internship assignments using dedicated Git branches, commits, and pull requests.
 - Deployed the completed application to Vercel from the GitHub `main` branch.
 
 ## 💼 Professional Internship Experience
 
-This project was completed as part of a structured software engineering internship through **FES Institute (Frontend Simplified)**.
+**Frontend Software Engineer Intern**
 
-The internship provided practical experience in:
+**FES Institute (Frontend Simplified)**
+
+**Official Program:** NDL Animation Internship
+
+**Status:** Successfully Completed
+
+The internship provided hands-on experience in:
 
 - Working with an existing React codebase.
-- Implementing assigned frontend development features.
-- Integrating external APIs into existing applications.
+- Implementing assigned frontend software engineering features.
+- Integrating external REST APIs into existing applications.
+- Developing interactive animations and modern web interfaces.
 - Debugging and resolving application issues.
-- Following structured development workflows.
+- Following structured software development workflows.
 - Managing feature branches and submitting pull requests.
 - Building responsive, accessible, and maintainable user interfaces.
 - Deploying a frontend application to a live production environment.
 
-## 🎓 Certification & Graduation
+## 🎓 Education & Certifications
 
-**FES Institute — Frontend Development Bootcamp**
+### FES Institute — Frontend Development Bootcamp
 
-Successfully completed the Frontend Development Bootcamp at FES Institute, including a practical internship in a professional environment.
+Successfully completed the Frontend Development Bootcamp at FES Institute (Frontend Simplified), gaining practical training in modern frontend technologies and software development.
+
+### FES Institute — Certificate of Internship Completion
+
+Successfully completed the **NDL Animation Internship**, gaining hands-on experience developing interactive animations and modern web applications in a professional internship environment.
+
+**Technical proficiencies listed on the certificate:**
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Next.js
+- Node.js
+- TypeScript
+- Redux
 
 <p align="center">
-  <a href="https://github.com/matheusado/Matheus-internship/blob/main/fes-certificate.png">
-    <img src="https://raw.githubusercontent.com/matheusado/Matheus-internship/main/fes-certificate.png" alt="FES Institute Certificate of Graduation" width="650" />
+  <a href="https://github.com/matheusado/Matheus-internship/blob/main/fes-internship-certificate.pdf">
+    <img src="https://img.shields.io/badge/View_Official_Internship_Certificate-5842F5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Internship Certificate"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/matheusado/Matheus-internship/blob/main/fes-certificate.png">View Full-Size Certificate</a>
+  <a href="https://github.com/matheusado/Matheus-internship/blob/main/fes-internship-certificate.pdf">
+    View Certificate of Internship Completion (PDF)
+  </a>
 </p>
+
+---
+
+## 🤝 Connect With Me
+
+I am open to opportunities in frontend development, software engineering, and AI-powered application development.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheusado/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/matheusado">
+    <img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 
 ---
 
