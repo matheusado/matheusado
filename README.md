@@ -34,112 +34,65 @@ I build modern web applications, AI-powered systems, and intelligent automation 
 
 ## 📖 Project Overview
 
-Ultraverse is a modern, responsive NFT marketplace application built with **React and JavaScript**, featuring dynamic NFT discovery, detailed item pages, creator profiles, interactive carousels, and smooth scroll animations.
+Ultraverse is a responsive, API-driven NFT marketplace built with **React and JavaScript**, featuring dynamic NFT discovery, detailed item pages, creator profiles, interactive carousels, and scroll animations.
 
-Enhanced as part of the **NDL Animation Internship at FES Institute (Frontend Simplified)**, this project demonstrates practical experience in frontend software engineering, React component architecture, REST API integration, dynamic routing, asynchronous data fetching, interactive animations, and responsive user interface design.
-
-The project involved transforming an existing starter application into a dynamic, API-driven marketplace through structured internship assignments, Git branching, and pull requests.
+Developed as part of the **NDL Animation Internship at FES Institute (Frontend Simplified)**, the project involved transforming an existing starter application into a dynamic marketplace through structured software engineering assignments and professional development workflows.
 
 ## 🌐 Live Demo & Repository
 
 - **Live Application:** [View NFT Marketplace](https://matheus-internship.vercel.app/)
 - **Source Code:** [GitHub Repository](https://github.com/matheusado/Matheus-internship)
-- **Internship Certificate:** [View Certificate of Completion](https://github.com/matheusado/Matheus-internship/blob/main/fes-internship-certificate.pdf)
 
-## ✨ Features
+## ✨ Key Features & Technical Contributions
 
-- 🖼️ **Dynamic NFT Discovery** — Browse NFT collections and explore individual digital assets.
-- 🔎 **NFT Details Pages** — View artwork, descriptions, prices, likes, views, and ownership information.
-- 👤 **Creator and Owner Profiles** — Explore author profiles and their associated NFT collections.
-- 🔗 **Dynamic Routing** — Navigate between Explore, Author, and Item Details pages using React Router.
-- 🌐 **REST API Integration** — Retrieve NFT listings, creator information, and item details from cloud-based API endpoints.
-- ⚡ **Asynchronous Data Fetching** — Fetch and display dynamic content using Axios and React Hooks.
-- 💀 **Skeleton Loading States** — Improve the user experience with loading placeholders while data is being retrieved.
-- ⚠️ **Error Handling** — Handle invalid NFT IDs, missing data, and failed API requests with retry options.
-- 🎞️ **AOS Scroll Animations** — Implement smooth fade, zoom, and staggered animations across marketplace pages.
-- 🎠 **Interactive NFT Carousels** — Browse featured collections using Keen Slider.
-- ♿ **Reduced-Motion Accessibility** — Respect user preferences for reduced animations.
-- 📱 **Responsive Design** — Deliver adaptive layouts for desktop, tablet, and mobile devices.
-- 🧩 **Reusable React Components** — Maintain an organized, component-based UI architecture.
-- 🚀 **Production Deployment** — Host the application on Vercel with GitHub integration.
+- 🖼️ **Dynamic NFT Discovery** — Replaced static content with dynamically fetched NFT listings and collections.
+- 🔎 **NFT Details Pages** — Implemented detailed views displaying artwork, descriptions, prices, likes, views, and ownership information.
+- 👤 **Creator Profiles** — Developed author pages displaying creator information and associated NFT collections.
+- 🔗 **Dynamic Routing** — Implemented client-side navigation between Explore, Author, and Item Details pages using React Router.
+- 🌐 **REST API Integration** — Integrated cloud-based API endpoints using Axios and React Hooks for asynchronous data fetching.
+- 💀 **Loading States** — Implemented skeleton placeholders and managed loading, success, and error states using `useState` and `useEffect`.
+- ⚠️ **Error Handling** — Added retry functionality and navigation fallbacks for invalid NFT IDs, missing data, and failed API requests.
+- 🎞️ **Interactive Animations** — Implemented fade, zoom, and staggered scroll animations using AOS.
+- 🎠 **Responsive Carousels** — Integrated Keen Slider while preserving functionality across different screen sizes.
+- ♿ **Accessibility** — Implemented reduced-motion support to respect user animation preferences.
+- 📱 **Responsive Design** — Adapted layouts for desktop, tablet, and mobile devices.
+- 🧩 **Component Architecture** — Built and maintained reusable React components within an existing codebase.
+- 🔀 **Development Workflow** — Managed internship assignments through dedicated Git feature branches, commits, pull requests, debugging, and project documentation.
+- 🚀 **Deployment** — Deployed the completed application to Vercel through GitHub integration.
 
 ## 🛠️ Technologies & Tools
 
-| Technology | Purpose |
+| Category | Technologies |
 | --- | --- |
-| React | Component-based user interfaces |
-| JavaScript (ES6+) | Application logic and interactivity |
-| HTML5 & CSS3 | Structure, styling, and responsive layouts |
-| React Router | Client-side navigation and dynamic routing |
-| React Hooks | State management and side effects |
-| Axios | Asynchronous REST API requests |
-| AOS (Animate On Scroll) | Scroll-triggered animations |
-| Keen Slider | Responsive and interactive carousels |
-| REST APIs | Dynamic NFT, creator, and collection data |
-| Create React App | Application build tooling |
-| Git & GitHub | Version control and pull request workflow |
-| Vercel | Application hosting and deployment |
+| Frontend | React, JavaScript (ES6+), HTML5, CSS3 |
+| State Management | React Hooks (`useState`, `useEffect`) |
+| Routing | React Router |
+| API Integration | Axios, REST APIs |
+| Animations | AOS (Animate On Scroll) |
+| Carousels | Keen Slider |
+| Build Tooling | Create React App |
+| Version Control | Git, GitHub |
+| Deployment | Vercel |
 
-## 🏗️ Architecture & Development
+## 💼 Internship & Certification
 
-- Built and maintained reusable React components across multiple marketplace pages.
-- Implemented dynamic routes for NFT details and creator profiles.
-- Integrated external REST APIs for dynamic retrieval of NFT information.
-- Replaced static content with dynamically fetched API data.
-- Managed loading, success, and error states using `useState` and `useEffect`.
-- Added retry functionality and navigation fallbacks for failed requests.
-- Implemented responsive layouts and scroll-triggered animations.
-- Preserved carousel functionality while integrating AOS animations.
-- Implemented reduced-motion accessibility support.
-- Organized internship assignments using dedicated Git branches, commits, and pull requests.
-- Deployed the completed application to Vercel from the GitHub `main` branch.
+| | |
+| --- | --- |
+| **Role** | Frontend Software Engineer Intern |
+| **Organization** | FES Institute (Frontend Simplified) |
+| **Official Program** | NDL Animation Internship |
+| **Work Environment** | Remote |
+| **Status** | Successfully Completed |
 
-## 💼 Professional Internship Experience
-
-**Frontend Software Engineer Intern**
-
-**FES Institute (Frontend Simplified)**
-
-**Official Program:** NDL Animation Internship
-
-**Status:** Successfully Completed
-
-The internship provided hands-on experience in:
-
-- Working with an existing React codebase.
-- Implementing assigned frontend software engineering features.
-- Integrating external REST APIs into existing applications.
-- Developing interactive animations and modern web interfaces.
-- Debugging and resolving application issues.
-- Following structured software development workflows.
-- Managing feature branches and submitting pull requests.
-- Building responsive, accessible, and maintainable user interfaces.
-- Deploying a frontend application to a live production environment.
-
-### FES Institute — Certificate of Internship Completion
-
-Successfully completed the **NDL Animation Internship**, gaining hands-on experience developing interactive animations and modern web applications in a professional internship environment.
+Awarded a **Certificate of Internship Completion** recognizing hands-on experience in interactive animations and modern web application development.
 
 **Technical proficiencies listed on the certificate:**
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Next.js
-- Node.js
-- TypeScript
-- Redux
+HTML5 · CSS3 · JavaScript · React · Next.js · Node.js · TypeScript · Redux
 
 <p align="center">
   <a href="https://github.com/matheusado/Matheus-internship/blob/main/fes-internship-certificate.pdf">
-    <img src="https://img.shields.io/badge/View_Official_Internship_Certificate-5842F5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Internship Certificate"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/matheusado/Matheus-internship/blob/main/fes-internship-certificate.pdf">
-    View Certificate of Internship Completion (PDF)
+    <img src="https://img.shields.io/badge/View_Official_Internship_Certificate-5842F5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Official Internship Certificate"/>
   </a>
 </p>
 
