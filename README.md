@@ -197,45 +197,71 @@ https://github.com/matheusado/simplified-flix-movie-search
 
 ---
 
-# 🤖 Featured AI Project
+# 🤖 Featured AI Capstone Project
 
 ## AI Market Research & Go-to-Market Intelligence Platform
 
 A multi-agent AI research platform designed to automate market intelligence workflows and generate evidence-based go-to-market strategies.
 
-The platform orchestrates specialized AI agents to conduct market research, analyze competitors, synthesize findings, and produce structured strategic reports.
+Developed as the final capstone project for the **Applied Agentic AI: Systems, Design & Impact** program by Microsoft and Simplilearn.
+
+The platform orchestrates specialized AI agents to conduct market research, analyze competitors, validate evidence, and produce structured strategic reports.
 
 ### 🌐 Live Demo
 
-https://market-research-gtm.streamlit.app
+[Launch Application](https://market-research-gtm.streamlit.app)
 
 ### 💻 GitHub Repository
 
-https://github.com/matheusado/market-research-gtm
+[Explore Source Code](https://github.com/matheusado/market-research-gtm)
 
-### ✨ Features
+### ✨ Key Features
 
 - 🤖 Multi-Agent AI Architecture with CrewAI
 - 🔎 Automated Market Research
-- 📊 Competitive Intelligence and Analysis
+- 📊 Competitive and Pricing Intelligence
 - 📈 Go-to-Market Strategy Generation
-- 📄 Automated PDF Report Generation
+- 📄 Automated Google Docs and PDF Reporting
 - 🧠 Model Context Protocol (MCP) Integration
 - 🌐 SerpAPI Integration
 - ✅ Research Evidence Validation
-- 📉 Execution Metrics and Cost Tracking
+- 📉 Execution Metrics and API Cost Tracking
 - ⚙️ GitHub Actions CI/CD
 - 🧪 30+ Automated Tests
 
-### 🛠 Technologies
+### 🛠 Technologies & Tools
 
 - Python
 - CrewAI
 - Streamlit
-- MCP
+- Model Context Protocol (MCP)
 - SerpAPI
+- Google Docs API
 - GitHub Actions
+
+---
+
+# 🎓 Education & Professional Certification
+
+## Microsoft & Simplilearn
+
+**Applied Agentic AI: Systems, Design & Impact**
+
+- **Status:** Successfully Completed
+- **Completion Date:** August 12, 2026
+- **Credential:** Certificate of Completion
+- **Capstone Project:** AI Market Research & Go-to-Market Intelligence Platform
+
+### Technical Competencies
+
+- Agentic AI System Design
+- Multi-Agent Architecture
 - AI Agent Orchestration
+- Intelligent Workflow Automation
+- Model Context Protocol (MCP)
+- Prompt Engineering
+- API Integration
+- Applied Artificial Intelligence
 
 ---
 
