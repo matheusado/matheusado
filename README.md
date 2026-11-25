@@ -13,11 +13,7 @@ I build modern web applications, AI-powered systems, and intelligent automation 
   <a href="https://www.linkedin.com/in/matheusado/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/matheusado/Matheus-internship/blob/main/fes-internship-certificate.pdf">
-    <img src="https://img.shields.io/badge/FES_Institute-Internship_Certificate-5842F5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Internship Certificate"/>
-  </a>
-</p>
-
+  
 ---
 
 # 💻 Featured Software Projects
